@@ -1,2 +1,2 @@
 # cancion
-Una canción sobre la vida y la muerte
+Una canción sobre la vida y la muerte en C mayor
