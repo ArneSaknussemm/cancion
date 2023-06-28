@@ -1,2 +1,2 @@
 # cancion
-Una canción sobre la vida
+Una canción sobre la vida y la muerte
